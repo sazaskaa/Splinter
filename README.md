@@ -1,3 +1,5 @@
+![Banner do Splinter](assets/splinter-banner.png)
+
 # Splinter
 
 Criei o Splinter para resolver um incômodo do meu dia a dia. Toda vez que eu queria jogar PS5 e continuar usando o PC no monitor secundário, precisava arrastar as janelas, mudar o modo de exibição do Windows e trocar a entrada do monitor principal. Quando voltava ao PC, precisava reorganizar as janelas à mão.
